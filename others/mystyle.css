@@ -42,7 +42,7 @@ th {
 
 #container {
     background-color: white;
-    width: 1024px;
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -58,7 +58,7 @@ th {
 }
 
 #nav{
-    width: 180px;
+    widows: 180px;
     float: left;
 }
 
@@ -73,34 +73,10 @@ th {
 }
 
 #main{
-    width: 824px;
+    width: 600px;
     float: right;
 }
 
-#imginfo {
-    width: 800px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-/*    border: 1px;
-    border-style: solid;
-*/
-}
-
-.img {
-    width: 110px;
-    float: left;
-}
-
-.info {
-    width: 540px;
-    margin-left: 10px;
-    float: left;
-}
-
-.endimginfo{
-    clear:  both;
-    margin-bottom: 10px;
-}
 
 #footer {
     clear: both;
